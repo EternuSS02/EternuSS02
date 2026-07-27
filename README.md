@@ -2,7 +2,6 @@
 
 ### 🎓 Computer Science student specializing in Business Applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EternuSS02&label=Profile views&color=0e75b6&style=flat" alt="EternuSS02" /> </p>
 
 - **💼 Currently working in Technical Support at Chełmska Spółdzielnia Mieszkaniowa, where I provide technical support, troubleshoot hardware and software issues, and create graphic materials.**
 
